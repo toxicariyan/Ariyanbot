@@ -1,7 +1,7 @@
 {
 	"name": "Ariyan Bot",
 	"version": "20.0.0",
-	"description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
+	"description": "A simple Facebook Messenger Bot made by me(Mr Ghost).",
 	"main": "mirai.js",
 	"scripts": {
 		"start": "node index",
